@@ -1,6 +1,8 @@
 Remove Keychains
 ===
 
+![logo](logo.png)
+
 This is yet another solution for removing keychains on macOS. This is designed to run in the context of a end user GUI session. This application will backup the entire `~/Library/Keychains` folder into `~/Library/Keychain_bkup`. After the backup the keychains will be removed and a force restart will attempt to take place.
 
 Download the latest release [here](https://github.com/clburlison/RemoveKeychains/releases).
